@@ -63,19 +63,22 @@ Our games are deployed using Render’s free plan, which offers 512 MB RAM, 0.
 You can deploy the games yourself on Render with a paid plan for more reliable access.
  👉 **How to deploy:**
 
-- **For games with a backend (e.g., Food Rain):**
-  1. Fork this GitHub repo
-  2. On https://dashboard.render.com, click **“New +” → “Web Service”**
-  3. Set the **Root Directory** to the game folder (e.g., `food-rain`)
-  4. Set **Build Command** to `npm install`
-  5. Set **Start Command** to `node server.js` (or your actual entry point)
-  6. Choose a plan and deploy
-- **For static games (e.g., Flower Frame):**
-  1. Click **“New +” → “Static Site”**
-  2. Set the **Root Directory** to `flower-frame`
-  3. Leave **Build Command** blank
-  4. Set **Publish Directory** to `.`
-  5. Deploy — Render will serve `index.html` automatically
+**For games with a backend (e.g., Food Rain):**
+
+1. Fork this GitHub repo
+2. On https://dashboard.render.com, click **“New +” → “Web Service”**
+3. Set the **Root Directory** to the game folder (e.g., `food-rain`)
+4. Set **Build Command** to `npm install`
+5. Set **Start Command** to `node server.js` (or your actual entry point)
+6. Choose a plan and deploy
+
+**For static games (e.g., Flower Frame):**
+
+1. Click **“New +” → “Static Site”**
+2. Set the **Root Directory** to `flower-frame`
+3. Leave **Build Command** blank
+4. Set **Publish Directory** to `.`
+5. Deploy — Render will serve `index.html` automatically
 
 ### Cite this work
 
