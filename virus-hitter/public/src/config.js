@@ -1,0 +1,5 @@
+export const CONFIG = {
+  VIDEO_WIDTH: 1280,
+  VIDEO_HEIGHT: 720,
+  NOSE_DIS: 15,
+};

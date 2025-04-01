@@ -10,8 +10,10 @@ This repository includes all the games designed and developed as part of our res
 
 This repository includes **five exertion-based games** designed to be used in online meetings to promote movement and engagement:
 
-- **Food Rain** – Catch falling food items by moving your head and neck and opening your mouth.
+- **Food Rain** – A game where players move their head and neck and open their mouth to catch falling food items.
 - **Flower Frame** – A reactive camera frame that grows flowers when you stand up and hold your position.
+- **frost** – A game that prompts gentle neck movements to clear virtual frost from the video window, supporting subtle in-meeting activity.
+- **Virus-hitter**:  A cooperative game where participants use seated torso and head movements to collaboratively destroy virtual virus towers
 
 ## How to use it
 
