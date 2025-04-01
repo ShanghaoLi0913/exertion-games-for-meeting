@@ -23,6 +23,8 @@ The games are deployed on Render. You can access them using the links below:
 
 - **Food Rain**: https://food-rain.onrender.com
 - **Flower Frame**: https://flower-frame.onrender.com
+- **Frost:** https://frost-g997.onrender.com
+- **Virtus hitter**: https://virus-hitter.onrender.com
 
 Open the game you'd like to play in your web browser.
 
